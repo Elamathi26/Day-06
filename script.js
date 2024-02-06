@@ -1,4 +1,4 @@
-//1.Class Movie
+//1.
 //a)
 class movie { 
 
